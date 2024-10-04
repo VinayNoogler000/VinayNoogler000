@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vinaytambey000@gmail.com**
 
-- 📄 Know about my experiences [Checkout my Resume](https://drive.google.com/file/d/1WUICMGAXilXsULSEL6fSLbEmwZ8SiiTS/view?usp=drivesdk)
+- 📄 Know about my experiences [Checkout my Resume](https://drive.google.com/file/d/11pmSsKf-6f5YMH0125BhSxhxZ6rfHYIb/view?usp=sharing)
 
 - ⚡ Fun fact (Hobbies) **I love watching Personality Development Movies/Webseries, Playing Story (RPG) Video-Games to learn about different era, cultures and events in history, or to get out-of-the-world experiences, and Listening to Music, Singing & Dancing. I'm a Fitness Enthusiast, too.**
 
