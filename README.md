@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.**
 
-- 👨‍💻 All of my projects are available at [https://vinay-tambey-portfolio.b-cdn.net/](https://vinay-tambey-portfolio.b-cdn.net/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://vinay-tambey-portfolio.b-cdn.net/)
 
 - 💬 Ask me about **Java, OOPS, DSA, HTML, CSS, Bootstrap, Tailwind, JavaScript, React and Redux**
 
 - 📫 How to reach me **vinaytambey000@gmail.com**
 
-- 📄 Know about my experiences [Checkout my Resume](https://drive.google.com/file/d/11pmSsKf-6f5YMH0125BhSxhxZ6rfHYIb/view?usp=sharing)
+- 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/file/d/11pmSsKf-6f5YMH0125BhSxhxZ6rfHYIb/view?usp=sharing)
 
 - ⚡ Fun fact (Hobbies) **I love watching Personality Development Movies/Webseries, Playing Story (RPG) Video-Games to learn about different era, cultures and events in history, or to get out-of-the-world experiences, and Listening to Music, Singing & Dancing. I'm a Fitness Enthusiast, too.**
 
