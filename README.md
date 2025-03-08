@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/vinaynoogler000" target="blank"><img src="https://img.shields.io/twitter/follow/vinaynoogler000?logo=twitter&style=for-the-badge" alt="vinaynoogler000" /></a> </p>
 
-- 🔭 I’m currently working on **Math Quiz App [Not Uploaded on GitHub & Not Deployed]**
+- 🔭 I’m currently working on **[Password Generator App](https://github.com/VinayNoogler000/Password-Generator)**
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://vinay-tambey-portfolio.b-cdn.net/)
 
-- 💬 Ask me about **Java, OOPS, DSA, HTML, CSS, Bootstrap, Tailwind, JavaScript, React and Redux**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, Express.js, EJS, RESTful APIs, MySQL, SQL, React.js, Redux.js, Java, OOPS, DSA**
 
-- 📫 How to reach me **vinaytambey000@gmail.com**
+- 📫 How to reach me: **vinaytambey000@gmail.com**
 
-- 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/file/d/11pmSsKf-6f5YMH0125BhSxhxZ6rfHYIb/view?usp=sharing)
+- 📄 Know about my experiences: [Checkout my Resume](https://docs.google.com/document/d/1M0Q2vRFRXhF0vo1q3Bs2gwM28idutZuwbPhHqPhZpMQ/edit?usp=sharing)
 
-- ⚡ Fun fact (Hobbies) **I love watching Personality Development Movies/Webseries, Playing Story (RPG) Video-Games to learn about different era, cultures and events in history, or to get out-of-the-world experiences, and Listening to Music, Singing & Dancing. I'm a Fitness Enthusiast, too.**
+- ⚡ Fun fact (Hobbies) **I love watching Personality Development Movies/Webseries, Playing Story (RPG) Video-Games to learn about different historical events, & cultures, and science related stuff, or to get out-of-the-world experiences, and Listening to Music, Singing & Dancing. I'm a Fitness Enthusiast, too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
