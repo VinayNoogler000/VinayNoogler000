@@ -19,7 +19,20 @@
 
 - 📄 Know about my experiences: [Checkout my Resume](https://docs.google.com/document/d/1M0Q2vRFRXhF0vo1q3Bs2gwM28idutZuwbPhHqPhZpMQ/edit?usp=sharing)
 
-- ⚡ Fun fact (Hobbies) **I love watching Personality Development Movies/Webseries, Playing Story (RPG) Video-Games to learn about different historical events, & cultures, and science related stuff, or to get out-of-the-world experiences, and Listening to Music, Singing & Dancing. I'm a Fitness Enthusiast, too.**
+- ⚡ Fun fact -> Here is my list of Hobbies:
+  1. *Sing/listen/vibe to Music*
+  2. *Watch Anime*
+  3. *Watch Inspiring Movies and Web Series*
+  4. *Spend time with Loved ones -when I have them*
+  5. *Upskill yourself, by learning high demand skills*
+  6. *Read Books*
+  7. *Watch Infotainment content for gaining valuable information and keeping myself updated*
+  8. *Play Video Games*
+  9. *Travel and spend time in nature*
+  10. *Watch funny/comedy videos or web series.*
+  11. *Watch Travel Vlogs to Explore the world Virtually and know interesting facts*
+  12. *Play and learn musical instruments*
+  13. *Also, I'm a Fitness Freak Guy, who does Calisthenics and Yoga, consistently everyday, while following super-healthy, yet tasty diet.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
