@@ -20,13 +20,13 @@
 - 📄 Know about my experiences: [Checkout my Resume](https://docs.google.com/document/d/1M0Q2vRFRXhF0vo1q3Bs2gwM28idutZuwbPhHqPhZpMQ/edit?usp=sharing)
 
 - ⚡ Fun fact -> Here is my list of Hobbies:
-  1. *Sing/listen/vibe to Music*
+  1. *Singing while listening to Music*
   2. *Watch Anime*
   3. *Watch Inspiring Movies and Web Series*
   4. *Spend time with Loved ones -when I have them*
   5. *Upskill yourself, by learning high demand skills*
   6. *Read Books*
-  7. *Watch Infotainment content for gaining valuable information and keeping myself updated*
+  7. *Watch Infotainment content for gaining valuable information and keeping myself updated, about different fields/disciplines.*
   8. *Play Video Games*
   9. *Travel and spend time in nature*
   10. *Watch funny/comedy videos or web series.*
