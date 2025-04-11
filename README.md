@@ -20,19 +20,17 @@
 - 📄 Know about my experiences: [Checkout my Resume](https://docs.google.com/document/d/1M0Q2vRFRXhF0vo1q3Bs2gwM28idutZuwbPhHqPhZpMQ/edit?usp=sharing)
 
 - ⚡ Fun fact -> Here is my list of Hobbies:
-  1. *Singing while listening to Music*
-  2. *Watch Anime*
-  3. *Watch Inspiring Movies and Web Series*
-  4. *Spend time with Loved ones -when I have them*
-  5. *Upskill yourself, by learning high demand skills*
+  1. *Also, I'm a Fitness Freak Guy, who does Calisthenics and Yoga, consistently everyday, while following super-healthy, yet tasty diet.*
+  2. *Upskill yourself, by learning high demand skills*
+  3. *Watch Infotainment content for gaining valuable information and keeping myself updated, about different fields/disciplines.*
+  4. *Travel and spend time in nature*
+  5. *Watch Travel Vlogs to Explore the world Virtually and know interesting facts*
   6. *Read Books*
-  7. *Watch Infotainment content for gaining valuable information and keeping myself updated, about different fields/disciplines.*
-  8. *Play Video Games*
-  9. *Travel and spend time in nature*
-  10. *Watch funny/comedy videos or web series.*
-  11. *Watch Travel Vlogs to Explore the world Virtually and know interesting facts*
-  12. *Play and learn musical instruments*
-  13. *Also, I'm a Fitness Freak Guy, who does Calisthenics and Yoga, consistently everyday, while following super-healthy, yet tasty diet.*
+  7. *Play and learn musical instruments*
+  8. *Singing while listening to Music*
+  9. *Watch Inspiring Movies and Web Series*
+  10. *Spend time with Loved ones -when I have them*
+  11. *Play Video Games*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
