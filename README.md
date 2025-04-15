@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vinaynoogler000" target="blank"><img src="https://img.shields.io/twitter/follow/vinaynoogler000?logo=twitter&style=for-the-badge" alt="vinaynoogler000" /></a> </p>
 
-- 🔭 I’m currently working on **[Password Generator App](https://github.com/VinayNoogler000/Password-Generator)**
+- 🔭 I’m currently working on **Weather Web App**
 
-- 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.**
+- 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://vinay-tambey-portfolio.b-cdn.net/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, Express.js, EJS, RESTful APIs, MySQL, SQL, React.js, Redux.js, Java, OOPS, DSA**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, Express.js, EJS, RESTful APIs, MySQL, SQL, React.js, Redux.js, Java, OOPS, DSA, C**
 
 - 📫 How to reach me: **vinaytambey000@gmail.com**
 
