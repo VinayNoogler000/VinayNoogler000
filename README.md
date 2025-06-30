@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/vinaytambey" target="blank"><img src="https://img.shields.io/twitter/follow/vinaytambey?logo=twitter&style=for-the-badge" alt="vinay tambey" /></a> </p>
 
-- 🔭 I’m currently working on [**Weather Web App**](https://github.com/VinayNoogler000/Weather-Webapp)
+- 🔭 I’m currently working on [**Vinstagram - A Social Media Platform**](https://github.com/VinayNoogler000/VINSTAGRAM)
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
