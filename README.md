@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](vinaytambey.bio)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.vinaytambey.bio)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, Express.js, EJS, RESTful APIs, MySQL, SQL, React.js, Redux.js, Java, OOPS, DSA, C**
 
