@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/vinaytambey" target="blank"><img src="https://img.shields.io/twitter/follow/vinaytambey?logo=twitter&style=for-the-badge" alt="vinay tambey" /></a> </p>
 
-- 🔭 I’m currently working on [**RentEase Platform**](https://github.com/VinayNoogler000/Airbnb-Clone)
+- 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual MERN-Stack Web Developer.
+
+- 🔭 My latest project is [**RentEase Platform**](https://github.com/VinayNoogler000/Airbnb-Clone)
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
