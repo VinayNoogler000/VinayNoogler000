@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **vinaytambey000@gmail.com**
 
-- 📄 Know about my experiences: [Checkout my Resume](https://drive.google.com/file/d/1V8hGILPBrf-8TFheuouK3aGP6Q4Ul03v/view?usp=drive_link)
+- 📄 Know about my experiences: [**Checkout my Resume**](https://docs.google.com/document/d/1zYR0Jh645sf1Ha3ogfY9WFCm4HxRJ6EVqH6IKELXaZI/edit?usp=sharing)
 
 - ⚡ Fun fact -> Here is my list of Hobbies, or activities which I do in my free time:
   1. *Staying updated about new trending/useful technologies.*
