@@ -9,7 +9,7 @@
 
 - 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual MERN-Stack Web Developer.
 
-- 🔭 My latest project is [**RentEase Platform**](https://github.com/VinayNoogler000/Airbnb-Clone)
+- 🔭 My latest project is [**FindFavMovies**](https://github.com/VinayNoogler000/FindFavMovies)
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
