@@ -22,12 +22,12 @@
 - 📄 Know about my experiences: [**Checkout my Resume**](https://docs.google.com/document/d/1zYR0Jh645sf1Ha3ogfY9WFCm4HxRJ6EVqH6IKELXaZI/edit?usp=sharing)
 
 - ⚡ Fun fact -> Here is my list of Hobbies, or activities which I do in my free time:
-  1. *Staying updated about new trending/useful technologies.*
-  2. *Watch content related Health, Science, Finance, and Relationships for gaining valuable information, to excel in major aspects of Life*
-  3. *Travel and spend time in nature. If not physically, then Virtually through Vlogs*
-  4. *Read Books*
-  5. *Play and learn musical instruments*
-  6. *Music: Listening, Singing, & Dancing*
+  1. *Learning, Broadening, Deepening my Knowledge in Software Engineering Domains, by Building Software-Solutions*
+  2. *Staying updated about new trending/useful technologies.*
+  3. *Gaining valuable information, to excel in major aspects of Life, by watching content related to Health, Science, Finance, and Relationships*
+  4. *Travel and spend time in nature. If not physically, then Virtually through Vlogs*
+  5. *Read Books*
+  6. *Music: Listening, Singing, Dancing & Musical Instruments*
   7. *Watch Inspiring Anime, Movies and Web Series*
   8. *Spend time with Loved ones -when I have them*
   9. *Play Video Games*
