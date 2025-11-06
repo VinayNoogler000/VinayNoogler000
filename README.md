@@ -7,7 +7,9 @@
 
 - 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual MERN-Stack Web Developer.
 
-- 🔭 My latest project is [**Currency Converter**](https://github.com/VinayNoogler000/Currency-Converter)
+- 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
+
+- 🔭 My latest Frontend project is [**ToDo App (Using React-Context-API and LocalStorage**](https://github.com/VinayNoogler000/Todo-App-Context-API-LocalStorage-)
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
