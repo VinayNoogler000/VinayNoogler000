@@ -9,7 +9,7 @@
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
-- 🔭 My latest Frontend project is [**ToDo App (Using React-Context-API and LocalStorage**](https://github.com/VinayNoogler000/Todo-App-Context-API-LocalStorage-)
+- 🔭 My latest Frontend project is [**ToDo App (Using Redux Toolkit**](https://github.com/VinayNoogler000/Todo-Using-Redux)
 
 - 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
 
