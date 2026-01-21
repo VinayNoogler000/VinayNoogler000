@@ -5,33 +5,33 @@
 
 <p align="left"> <a href="https://linkedin.com/in/vinaytambey" target="blank"><img src="https://img.shields.io/twitter/follow/vinaytambey?logo=twitter&style=for-the-badge" alt="vinay tambey" /></a> </p>
 
-- 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual MERN-Stack Web Developer.
+- 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual Software Engineer by using MERN-Stack.
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
 - 🔭 My latest Frontend project is [**ToDo App (Using Redux Toolkit**](https://github.com/VinayNoogler000/Todo-Using-Redux)
 
-- 🌱 I’m currently understanding the fundamentals of **JavaScript & React by building Real-World Projects.** and expanding my knowledge throught **Harvard's CS50x Course**
+- 🌱 I’m currently going through the advance concepts of **React by building Real-World Projects.** and expanding my knowledge through online courses.
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.vinaytambey.bio)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Node.js, Express.js, EJS, RESTful APIs, MySQL, SQL, React.js, Redux.js, Java, OOPS, DSA, C**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Redux.js, Node.js, Express.js, EJS, RESTful APIs, MySQL, MongoDB, Appwrite, Java, OOPS, DSA, C**
 
 - 📫 How to reach me: **vinaytambey000@gmail.com**
 
 - 📄 Know about my experiences: [**Checkout my Resume**](https://docs.google.com/document/d/1zYR0Jh645sf1Ha3ogfY9WFCm4HxRJ6EVqH6IKELXaZI/edit?usp=sharing)
 
 - ⚡ Fun fact -> Here is my list of Hobbies, or activities which I do in my free time:
-  1. *Learning, Broadening, Deepening my Knowledge in Software Engineering Domains, by Building Software-Solutions*
+  1. *Learning, Broadening, Deepening my Knowledge in Software Engineering Domains, by Building Hobby Projects and Software-Solutions*
   2. *Staying updated about new trending/useful technologies.*
-  3. *Gaining valuable information, to excel in major aspects of Life, by watching content related to Health, Science, Finance, and Relationships*
-  4. *Travel and spend time in nature. If not physically, then Virtually through Vlogs*
-  5. *Read Books*
+  3. *Gaining valuable information, to excel in major aspects of Life, by watching content related to Health, Career, Finance, and Relationships*
+  4. *I'm a Fitness Guy, who does Calisthenics & Yoga, everyday consistently for 1 hour*
+  5. *Spend time with Loved ones*
   6. *Music: Listening, Singing, Dancing & Musical Instruments*
-  7. *Watch Inspiring Anime, Movies and Web Series*
-  8. *Spend time with Loved ones -when I have them*
-  9. *Play Video Games*
-  10. *Also, I'm a Fitness Guy, who does Yoga & Calisthenics* 
+  7. *Watching Inspiring Anime, Movies and Web Series*
+  8. *Playing Video Games*
+  9. *Read Books*
+  10. *Travel and spend time in nature. If not physically, then Virtually through Vlogs*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
