@@ -9,7 +9,7 @@
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
-- 🔭 My latest Frontend project is [**ToDo App (Using Redux Toolkit**](https://github.com/VinayNoogler000/Todo-Using-Redux)
+- 🔭 My latest Frontend + No-Code Backend project is [**MetaTales Blog Website**](https://github.com/VinayNoogler000/MetaTales-Blog-Website)
 
 - 🌱 I’m currently going through the advance concepts of **React by building Real-World Projects.** and expanding my knowledge through online courses.
 
@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vinaynoogler000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinaynoogler000" height="30" width="40" /></a>
+<a href="https://x.com/vinaynoogler000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/.svg" alt="vinaynoogler000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinaytambey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaytambey" height="30" width="40" /></a>
 <a href="https://instagram.com/vinay_noogler_000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_noogler_000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinaynoogler000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaynoogler000" height="30" width="40" /></a>
@@ -48,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaynoogler000&show_icons=true&locale=en" alt="vinaynoogler000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaynoogler000&" alt="vinaynoogler000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaynoogler000" alt="vinaynoogler000" /></p>
