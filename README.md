@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/vinaytambey" target="blank"><img src="https://img.shields.io/twitter/follow/vinaytambey?logo=twitter&style=for-the-badge" alt="vinay tambey" /></a> </p>
 
-- 🔀 I'm currently revising and strenthening Full-Stack Web Development Skills using MERN tech stack, by building real-world applications like [ClipNexus](https://github.com/VinayNoogler000/ClipNexus-YT-Clone), to become the best Software Engineer (among Freshers) specialized in Complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
+- ⚡ I'm currently revising and strenthening Full-Stack Web Development Skills using MERN tech stack, by building real-world applications like [ClipNexus](https://github.com/VinayNoogler000/ClipNexus-YT-Clone).
+
+- 🎯 My Current Goal is to become the best Software Engineer (among Freshers) specialized in Complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
@@ -19,7 +21,7 @@
 
 - 📄 Know about my experiences: [**Checkout my Resume**](https://docs.google.com/document/d/1zYR0Jh645sf1Ha3ogfY9WFCm4HxRJ6EVqH6IKELXaZI/edit?usp=sharing)
 
-- ⚡ Fun fact -> Here is my list of Hobbies, or activities which I do in my free time:
+- 🤗 Fun fact -> Here is my list of Hobbies, or activities which I do in my free time:
   1. *Learning, Broadening, Deepening my Knowledge in Software Engineering Domains, by Building Hobby Projects and Software-Solutions*
   2. *Staying updated about new trending/useful technologies.*
   3. *Gaining valuable information, to excel in major aspects of Life, by watching content related to Health, Career, Finance, and Relationships*
