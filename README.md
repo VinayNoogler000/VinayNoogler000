@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://linkedin.com/in/vinaytambey" target="blank"><img src="https://img.shields.io/twitter/follow/vinaytambey?logo=twitter&style=for-the-badge" alt="vinay tambey" /></a> </p>
 
-- 🔀 I'm currently revising [`React.js`](https://react.dev/), while building projects for strengthening fundmentals, aiming to become an actual Software Engineer by using MERN-Stack.
+- 🔀 I'm currently revising and strenthening Full-Stack Web Development Skills using MERN tech stack, by building real-world applications like [ClipNexus](https://github.com/VinayNoogler000/ClipNexus-YT-Clone), to become the best Software Engineer (among Freshers) specialized in Complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
 - 🔭 My latest Frontend + No-Code Backend project is [**MetaTales Blog Website**](https://github.com/VinayNoogler000/MetaTales-Blog-Website)
-
-- 🌱 I’m currently going through the advance concepts of **React by building Real-World Projects.** and expanding my knowledge through online courses.
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://www.vinaytambey.bio)
 
