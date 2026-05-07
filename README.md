@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinaynoogler000" target="blank"><img src="https://img.shields.io/twitter/follow/vinaynoogler000?logo=twitter&style=for-the-badge" alt="vinaynoogler000" /></a> </p>
 
-- ⚡ I'm currently revising and strenthening Full-Stack Web Development Skills using MERN tech stack, by building real-world applications like [ClipNexus](https://github.com/VinayNoogler000/ClipNexus-YT-Clone).
+- ⚡ I'm currently learning TS (TypeScript) and strenthening Full-Stack (MERN) Web Development Skills, by building real-world applications like [ClipNexus](https://github.com/VinayNoogler000/ClipNexus-YT-Clone).
 
 - 🎯 My Current Goal is to become the best Software Engineer (among Freshers) initially specialized in Full-Stack (MERN) Web Dev, and eventually in complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
 
