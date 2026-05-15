@@ -9,7 +9,7 @@
 
 - ⚡ I'm currently **learning Next.js** and strenthening Full-Stack (MERN) Web Development Skills, by building real-world applications like [**Music Academy**](https://github.com/VinayNoogler000/Music-Academy-Next.js).
 
-- 🎯 My Current Goal is to become the best Software Engineer (among Freshers) initially specialized in Full-Stack (MERN) Web Dev, and eventually in complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
+- 🎯 My Current Goal is to become the best Software Engineer (among Freshers), initially specialized in Full-Stack (MERN) Web Dev, and eventually in complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
 
 - 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
