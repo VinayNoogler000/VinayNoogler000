@@ -17,7 +17,7 @@
 
 - 💪 My latest Frontend + No-Code Backend (using Appwrite BaaS) project is [**MetaTales Blog Website**](https://github.com/VinayNoogler000/MetaTales-Blog-Website)
 
-- 👨‍💻 All of my projects are available at [**My Portfolio Website**](https://www.vinaytambey.bio)
+- 👨‍💻 All of my projects are available at [**My Portfolio Website**](https://vinay-tambey-portfolio.vercel.app/)
 
 - 💬 Ask me about **Frontend (JavaScript, React.js, Redux.js), Backend (Node.js, Express.js, EJS, RESTful APIs), Database (SQL, MySQL, Mongoose, MongoDB), Cloud/Deployments (Appwrite, Vercel, Render, DigitalOcean), CS-Fundamentals (OOPS, Networking), and Programming Languages (Java, C, DSA)**
 
