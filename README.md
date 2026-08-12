@@ -28,14 +28,14 @@
 - 🤗 Fun fact -> Here is my list of Hobbies, or activities which I Truly Enjoy Doing:
   1. *Learning, Broadening, Deepening my Knowledge in Software Engineering Domains, by Building Hobby Projects and Software-Solutions*
   2. *Staying updated about new trending/useful technologies.*
-  3. *Gaining valuable information, to excel in major aspects of Life, by watching content related to Health, Career, Finance, and Relationships*
-  4. *I'm a Fitness Guy, who does Calisthenics & Yoga, everyday consistently for 1-1.5 hour*
-  5. *Spend time with Loved ones*
-  6. *Music: Listening, Singing, Dancing & Instruments*
-  7. *Watching Inspiring Anime, Movies and Web Series*
-  8. *Playing Video Games*
-  9. *Read Books*
-  10. *Travel and spend time in nature. If not physically, then Virtually through Vlogs*
+  3. *Gaining valuable information to excel in major aspects of Life, by watching educational content from best in domains: Health, Career, Finance, and Relationships*
+  4. *Spending time with Loved ones*
+  5. *Music: Listening, Singing, Dancing & Instruments (even though I don't have one!!!)*
+  6. *Watching Inspiring Movies, Web Series andddd... Anime*
+  7. *Playing Video Games*
+  8. *Reading Books*
+  9. *Travel and spend time in nature (If not physically, then Virtually through Vlogs)*
+  10. *On top of all these, I'm a Health-Conscious Guy, who prioritizes good health, over anything else in this world.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
