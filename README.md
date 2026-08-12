@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/vinaynoogler000" target="blank"><img src="https://img.shields.io/twitter/follow/vinaynoogler000?logo=twitter&style=for-the-badge" alt="vinaynoogler000" /></a> </p>
 
-- ⚡ I'm currently **learning Next.js**, revising/practicing [DSA in TS](https://github.com/VinayNoogler000/DSA-in-TS), and strenthening Full-Stack (MERN) Web Development Skills, by building real-world applications like [**AnonyMsg**](https://github.com/VinayNoogler000/Anony-Msg).
+- ⚡ I'm currently strengthening Full-Stack Web Development Skills, by building real-world applications like [**AnonyMsg**](https://github.com/VinayNoogler000/Anony-Msg) by using **MERN-stack & Next.js**, while parallelly practicing **DSA in TS (TypeScript)** to improve my problem-solving and logical-thinking skills, and most importantly, to crack interviews of product-based companies (currently off-campus) for SDE/Dev roles, get a well-paying job, and kickstart my career. 
 
-- 🎯 My Current Goal is to become the best Software Engineer (among Freshers), initially specialized in Full-Stack (MERN) Web Dev, and eventually in complete Software Development Life-Cycle (SDLC) of Web Applications/Solutions.
+- 🎯 My Current Goal is to become the best Software Developer Engineer among Freshers (at least to be in top 20%, if not in top 1%), initially specialized & excelling in Full-Stack Web Dev domain, and eventually in complete Software Development Life-Cycle (SDLC) of Software Applications/Solutions.
 
-- 🚀 My lateest Next.js project is [**Music Academy**](https://github.com/VinayNoogler000/Music-Academy-Next.js)
+- 🚀 My latest Next.js-based Full-Stack (MERN) project is [**AnonyMsg**](https://github.com/VinayNoogler000/Anony-Msg)
 
-- 🌟 My latest Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
+- 🌟 My first & latest Vanilla Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
 
-- 💪 My latest Frontend + No-Code Backend (using Appwrite BaaS) project is [**MetaTales Blog Website**](https://github.com/VinayNoogler000/MetaTales-Blog-Website)
+- 💪 My first & latest Full-Stack, but Frontend (React.js) + No-Code Backend (Appwrite BaaS) project is [**MetaTales Blog Website**](https://github.com/VinayNoogler000/MetaTales-Blog-Website)
 
 - 👨‍💻 All of my projects are available at [**My Portfolio Website**](https://vinay-tambey-portfolio.vercel.app/)
 
