@@ -11,6 +11,8 @@
 
 - 🎯 My Current Goal is to become the best Software Developer Engineer among Freshers (at least to be in top 20%, if not in top 1%), initially specialized & excelling in Full-Stack Web Dev domain, and eventually in complete Software Development Life-Cycle (SDLC) of Software Applications/Solutions.
 
+- 🤖 My latest Gen-AI integrated project is [**ChatBot in CLI**](https://github.com/VinayNoogler000/AI-ChatBot-in-CLI)
+
 - 🚀 My latest Next.js-based Full-Stack (MERN) project is [**AnonyMsg**](https://github.com/VinayNoogler000/Anony-Msg)
 
 - 🌟 My first & latest Vanilla Full-Stack (MERN) project is [**RentEase (Property Listing Platform)**](https://github.com/VinayNoogler000/RentEase)
